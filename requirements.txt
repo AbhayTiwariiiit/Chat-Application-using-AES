@@ -1,0 +1,23 @@
+# GUI library
+tkinter
+
+# Networking
+socket
+
+# Threading
+threading
+
+# Scrollable text widget for Tkinter
+scrolledtext
+
+# Message box for Tkinter
+messagebox
+
+# Custom RSA Cipher 
+decrypto
+cryptography 
+pycryptodome
+
+# Additional libraries if needed for decrypto module
+hashlib
+base64
